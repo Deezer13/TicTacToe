@@ -1,0 +1,7 @@
+﻿  GameForm.cpp
+D:\vs\TicTacToegame\GameForm.cpp(204,19): warning C4018: <: несоответствие типов со знаком и без знака
+  StartForm.cpp
+D:\vs\TicTacToegame\StartForm.cpp(8,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Создание кода...
+  GameForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  TicTacToegame.vcxproj -> D:\vs\TicTacToegame\Debug\TicTacToegame.exe

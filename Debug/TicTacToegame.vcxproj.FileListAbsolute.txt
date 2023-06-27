@@ -1,0 +1,5 @@
+D:\vs\TicTacToegame\Debug\TicTacToegame.vcxproj.AssemblyReference.cache
+D:\vs\TicTacToegame\Debug\TicTacToegame.exe
+D:\vs\TicTacToegame\Debug\TicTacToegame.GameForm.resources
+D:\vs\TicTacToegame\Debug\TicTacToegame.StartForm.resources
+D:\vs\TicTacToegame\Debug\TicTacToegame.vcxproj.GenerateResource.cache
